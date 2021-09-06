@@ -1,7 +1,9 @@
 - 합성곱 신경망(CNN, Convolutional Neural Network) -> 이미지, 비전 분야에서 주로 사용
 - CNN = 합성곱층(convolution layer) + 풀링층(pooling layer)으로 구성.
 
-![f122caad2dafa25f325735d914867c91.png](:/720f8647489e40b08fbaabef3ade4ed5) 
+
+![image](https://user-images.githubusercontent.com/71069596/132200537-d94bfd4d-2f4d-4b6e-9662-4a86a4cff461.png)
+
 1) CONV = convollution layer
 2) 합성곱 연산의 결과가 활성화 함수 ReLU를 지난다 
 
